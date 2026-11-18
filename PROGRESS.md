@@ -8,7 +8,7 @@
 
 | Q  | Title            | I   | II  | III | Lean I reached for                | Lean II / III reached for |
 |----|------------------|-----|-----|-----|-----------------------------------|---------------------------|
-| 1  | The Coneservation| `~` | `·` | `·` | `Nat.sqrt`, `native_decide`       |                           |
+| 1  | The Coneservation| `~` | `·` | `·` | `Nat.sqrt`, `omega`, `Nat.le_sqrt`|                           |
 | 2  |                  | `·` | `·` | `·` |                                   |                           |
 | 3  |                  | `·` | `·` | `·` |                                   |                           |
 | 4  |                  | `·` | `·` | `·` |                                   |                           |
